@@ -15,8 +15,7 @@ The designs are from a [frontend mentor challenge](https://www.frontendmentor.io
 Follow these steps if you want to clone this and play around with the code.
 
 1. `pnpm i` if you want to use some other package manager like yarn or npm, delete the `pnpm-lock.yaml` file before doing so.
-2. Remove the hidden `.git/` directory.
-3. Start tinkering.
+2. Start tinkering.
 
 ## Steps followed
 

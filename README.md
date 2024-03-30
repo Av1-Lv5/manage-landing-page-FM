@@ -10,6 +10,8 @@ The designs are from a [frontend mentor challenge](https://www.frontendmentor.io
 
 > Frontendmentor is a platform offering, some free and paywalled professional designs for frontend developers to create stunning projects.
 
+View my list of all solved Frontementor challenges [here](https://github.com/Av1-Lv5/Frontendmentor-challenges)
+
 ## Clone this?
 
 Follow these steps if you want to clone this and play around with the code.
